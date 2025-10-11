@@ -1,0 +1,1 @@
+# spm-food-scanner-project
