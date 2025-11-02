@@ -1,6 +1,4 @@
-# spm-food-scanner-project
-
-Table of Contents
+# Table of Contents
 # 1. Executive Summary (1-2 pages)
 - The problem
 - The solution
