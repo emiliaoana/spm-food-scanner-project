@@ -24,11 +24,12 @@
 - Define user segments.
 - Mention the potential market size or industry (health tech, food transparency).
 - Competitive advantage: AI-based recognition, database accuracy, multilingual support.
+
 # 5. Technical Overview
 - Architecture
 - Technologies used
-# 6. Project Plan
 
+# 6. Project Plan
 Milestones & Gantt Chart & WBS Diagram for them:
 - Research & Requirements 
 - Prototype Design 
